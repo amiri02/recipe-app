@@ -53,6 +53,7 @@ table {
   max-height: 100px;
   overflow-y: auto;
   text-overflow: ellipsis;
+  object-fit: scale-down;
 }
 
 .photo {
